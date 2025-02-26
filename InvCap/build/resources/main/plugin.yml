@@ -1,6 +1,0 @@
-main: com.flamesteak.invcap.ItemLimiter
-name: ItemLimiter
-version: "250226-1609-SNAPSHOT"
-api-version: "1.21.1"
-author: AUTHOR
-description: DESCRIPTION
