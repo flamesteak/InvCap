@@ -1,0 +1,2 @@
+C:\Users\flame\Documents\MC\InvCap\build\classes\java\main\com\flamesteak\invcap\InvCap$1.class
+C:\Users\flame\Documents\MC\InvCap\build\classes\java\main\com\flamesteak\invcap\InvCap.class
